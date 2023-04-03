@@ -5,5 +5,3 @@
 {"nombre":"Quinto Domingo", "comentarios":null,"fecha":"2023-04-30","irrenunciable":"0","tipo":"Domingo"},
 {"nombre": "Feriado por votación", "comentarios": null, "fecha": "2023-05-07","irrenunciable": "1", "tipo": "Votación"},
 {"nombre": "Feriado por votación", "comentarios": null, "fecha": "2023-12-17", "irrenunciable": "1", "tipo": "Votación"}]
-
- //{"nombre": "Suceso", "comentarios": null, "fecha": "yyyy-mm-dd", "irrenunciable": "0 renunciable/ 1 irrenunciable", "tipo": "Característica"}
